@@ -38,11 +38,11 @@ public:
 
     UINT  frameCount;
     float ripple;
-    float speed;      // 流れ速度.
-    float distortion; // 歪み強度
-    float brightness; // 明るさ係数
-    float monoPower;  // モノクロ係数
-    float bokeSize;   // ボケサイズ
+    float speed;      // 豬√ｌ騾溷ｺｦ.
+    float distortion; // 豁ｪ縺ｿ蠑ｷ蠎ｦ
+    float brightness; // 譏弱ｋ縺穂ｿよ焚
+    float monoPower;  // 繝｢繝弱け繝ｭ菫よ焚
+    float bokeSize;   // 繝懊こ繧ｵ繧､繧ｺ
   };
 private:
   using Buffer = ComPtr<ID3D12Resource1>;
